@@ -14,7 +14,7 @@ sources:
 
       - name: orders
         columns:
-          - name: id
+          - name: id 
             tests:
               - unique
               - not_null
